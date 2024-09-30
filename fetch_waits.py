@@ -60,7 +60,7 @@ wait_times_df = pd.DataFrame(times_dicts_list)
 # Add the weekday number
 wait_times_df['day'] = pd.to_datetime(wait_times_df["captured"]).dt.strftime("%w")
 
-full_df = pd.concat(archive_df, wait_times_df).drop_duplicates(subset='captured', keep='first')
+full_df = pd.concat([wait_times_df, archive_df]).drop_duplicates(subset='captured', keep='first')
 
 wait_times_df.to_csv('data/processed/wait_times_latest.csv', index=False)
 wait_times_df.to_json('data/processed/wait_times_latest.json', indent=4, orient='records')
