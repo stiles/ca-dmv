@@ -5,8 +5,6 @@ import altair as alt
 import geopandas as gpd
 from bs4 import BeautifulSoup
 from urllib.parse import quote
-from tqdm.notebook import tqdm
-
 
 headers = {
     "accept": "*/*",
@@ -31,9 +29,9 @@ urls = [
 card_list = []
 
 # Loop through each URL and extract data, including handling pagination
-for original_url in tqdm(urls):  # Limit for testing
+for original_url in urls: 
     page_number = 1
-    no_more_pages = False  # Flag to break out of the loop if no locations are found
+    no_more_pages = False  
 
     while not no_more_pages:
         # Construct the paginated URL properly
@@ -43,9 +41,6 @@ for original_url in tqdm(urls):  # Limit for testing
             # Construct the URL for subsequent pages by inserting /page/{page_number}/ before the query parameters
             base, params = original_url.split("?")
             url = f"{base}page/{page_number}/?{params}"
-
-        # Print the current URL to see the progress
-        # print(f"Fetching URL: {url}")
 
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
