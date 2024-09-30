@@ -1,0 +1,189 @@
+place,latitude,longitude,url,address,hours,services,city,state,zip
+Long Beach,33.803700,-118.149400,https://www.dmv.ca.gov/portal/field-office/long-beach/,3700 East Willow Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Long Beach,CA,90815
+Los Angeles,34.018200,-118.278700,https://www.dmv.ca.gov/portal/field-office/los-angeles/,3615 S Hope Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Los Angeles,CA,90007
+Los Angeles Metro IBC,34.104660,-117.873720,https://www.dmv.ca.gov/portal/field-office/los-angeles-metro-ibc/,1365 North Grand Avenue,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[],,,
+Lincoln Park,34.067300,-118.203500,https://www.dmv.ca.gov/portal/field-office/lincoln-park/,3529 N Mission Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Los Angeles,CA,90031
+West Hollywood,34.088257,-118.345865,https://www.dmv.ca.gov/portal/field-office/west-hollywood/,936 N Formosa Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], West Hollywood,CA,90046
+Hollywood,34.085300,-118.329900,https://www.dmv.ca.gov/portal/field-office/hollywood/,803 Cole Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Hollywood,CA,90038
+Glendale,34.166700,-118.283300,https://www.dmv.ca.gov/portal/field-office/glendale/,1335 W Glenoaks Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Glendale,CA,91201
+Montebello,34.019400,-118.122700,https://www.dmv.ca.gov/portal/field-office/montebello/,424 N Wilcox Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Montebello,CA,90640
+Bell Gardens,33.970100,-118.149100,https://www.dmv.ca.gov/portal/field-office/bell-gardens/,6801 South Garfield,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Bell Gardens,CA,90201
+Inglewood,33.970142,-118.357099,https://www.dmv.ca.gov/portal/field-office/inglewood/,621 N La Brea Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Inglewood,CA,90302
+Pasadena,34.145200,-118.074200,https://www.dmv.ca.gov/portal/field-office/pasadena/,49 S Rosemead Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Pasadena,CA,91107
+Culver City,34.002309,-118.415368,https://www.dmv.ca.gov/portal/field-office/culver-city/,11400 W Washington Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Culver City,CA,90066
+El Monte,34.080477,-118.044722,https://www.dmv.ca.gov/portal/field-office/el-monte/,4000 Arden Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], El Monte,CA,91731
+Santa Monica,34.028000,-118.474500,https://www.dmv.ca.gov/portal/field-office/santa-monica/,2235 Colorado Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Santa Monica,CA,90404
+Hawthorne,33.916400,-118.337300,https://www.dmv.ca.gov/portal/field-office/hawthorne/,3700 W El Segundo Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Hawthorne,CA,90250
+Gardena Commercial Drive Test Center,33.897043,-118.265943,https://www.dmv.ca.gov/portal/field-office/gardena-commercial-drive-test-center/,14825 S Avalon Blvd,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Gardena,CA,90248
+Whittier,33.952800,-118.043200,https://www.dmv.ca.gov/portal/field-office/whittier/,9338 S Painter Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Whittier,CA,90605
+Bellflower,33.873631,-118.131195,https://www.dmv.ca.gov/portal/field-office/bellflower/,9520 Artesia Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Bellflower,CA,90706
+Compton,33.876500,-118.215400,https://www.dmv.ca.gov/portal/field-office/compton/,2111 South Santa Fe Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Compton,CA,90221
+Torrance,33.827900,-118.311300,https://www.dmv.ca.gov/portal/field-office/torrance/,1785 W 220th Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Torrance,CA,90501
+San Pedro,33.758800,-118.292600,https://www.dmv.ca.gov/portal/field-office/san-pedro/,1511 N Gaffey Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Pedro,CA,90731
+Winnetka,34.201000,-118.584600,https://www.dmv.ca.gov/portal/field-office/winnetka/,20725 Sherman Way,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Winnetka,CA,91306
+Winnetka IBC,34.20148,-118.58478,https://www.dmv.ca.gov/portal/field-office/winnetka-ibc/,20725 Sherman Way,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Winnetka,CA,91306
+Thousand Oaks,34.211300,-118.845000,https://www.dmv.ca.gov/portal/field-office/thousand-oaks/,1810 E Avenida De Los Arboles,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Thousand Oaks,CA,91362
+Simi Valley,34.286400,-118.723400,https://www.dmv.ca.gov/portal/field-office/simi-valley/,3855 D - Alamo Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Simi Valley,CA,93063
+Van Nuys,34.193900,-118.458200,https://www.dmv.ca.gov/portal/field-office/van-nuys/,14920 Vanowen Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Van Nuys,CA,91405
+Arleta,34.249224,-118.445215,https://www.dmv.ca.gov/portal/field-office/arleta/,14400 Van Nuys Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Arleta,CA,91331
+West Covina,34.061000,-117.931600,https://www.dmv.ca.gov/portal/field-office/west-covina/,800 So Glendora Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], West Covina,CA,91790
+Fullerton,33.866600,-117.939900,https://www.dmv.ca.gov/portal/field-office/fullerton/,909 W Valencia Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Fullerton,CA,92832
+Placentia IBC,33.90499,-117.8412,https://www.dmv.ca.gov/portal/field-office/placentia-ibc/,2390 Rose Drive,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Placentia,CA,92870
+Westminster,33.764300,-117.998200,https://www.dmv.ca.gov/portal/field-office/westminster/,13700 Hoover Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Westminster,CA,92683
+Santa Ana,33.745400,-117.850600,https://www.dmv.ca.gov/portal/field-office/santa-ana/,1330 E First Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Santa Ana,CA,92701
+Costa Mesa,33.643500,-117.925900,https://www.dmv.ca.gov/portal/field-office/costa-mesa/,650 W 19th Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Costa Mesa,CA,92627
+San Marcos,33.140079,-117.149742,https://www.dmv.ca.gov/portal/field-office/san-marcos/,590 Rancheros Dr,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Marcos,CA,92069
+San Marcos IBC,33.14068,-117.1474,https://www.dmv.ca.gov/portal/field-office/san-marcos-ibc/,590 Rancheros Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], San Marcos,CA,92078
+Newhall,34.379500,-118.532500,https://www.dmv.ca.gov/portal/field-office/newhall/,24427 Newhall Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Newhall,CA,91321
+Oxnard,34.162900,-119.177500,https://www.dmv.ca.gov/portal/field-office/oxnard/,4050 Saviers Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Oxnard,CA,93033
+Santa Clara,37.350082,-121.993984,https://www.dmv.ca.gov/portal/field-office/santa-clara/,3665 Flora Vista Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Santa Clara,CA,95051
+Rancho Cucamonga,34.096900,-117.601600,https://www.dmv.ca.gov/portal/field-office/rancho-cucamonga/,8629 Hellman Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Rancho Cucamonga,CA,91730
+Pomona,34.042400,-117.749500,https://www.dmv.ca.gov/portal/field-office/pomona/,1600 S Garey Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Pomona,CA,91766
+Norco,33.928300,-117.561400,https://www.dmv.ca.gov/portal/field-office/norco/,3201 Horseless Carriage Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Norco,CA,92860
+Fontana Commercial Drive Test Center,34.067682,-117.461396,https://www.dmv.ca.gov/portal/field-office/fontana-commercial-drive-test-center/,10207 Poplar Ave,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Fontana,CA,92335
+King City,36.222399,-121.127305,https://www.dmv.ca.gov/portal/field-office/king-city/,101 E San Antonio Dr,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], King City,CA,93930
+Daly City,37.689000,-122.472800,https://www.dmv.ca.gov/portal/field-office/daly-city/,1500 Sullivan Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Daly City,CA,94015
+Redwood City,37.492600,-122.229000,https://www.dmv.ca.gov/portal/field-office/redwood-city/,300 Brewster Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Redwood City,CA,94063
+Yuba City,39.143900,-121.643300,https://www.dmv.ca.gov/portal/field-office/yuba-city/,1570 Poole Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Yuba City,CA,95993
+Crescent City,41.771900,-124.184700,https://www.dmv.ca.gov/portal/field-office/crescent-city/,1475 Parkway Drive,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Crescent City,CA,95531
+Fontana,34.107862,-117.476956,https://www.dmv.ca.gov/portal/field-office/fontana/,8026 Hemlock Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Fontana,CA,92336
+Rancho San Diego Industry Business Center,32.756415,-116.927344,https://www.dmv.ca.gov/portal/field-office/rancho-san-diego-industry-business-center/,1530 Hilton Head Rd.,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], El Cajon,CA,92019
+Rancho San Diego IBC,32.74525,-116.92667,https://www.dmv.ca.gov/portal/field-office/rancho-san-diego-ibc/,1530 Hilton Head Rd,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], El Cajon,CA,92019
+Chula Vista,32.652500,-117.086400,https://www.dmv.ca.gov/portal/field-office/chula-vista/,30 N Glover Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Chula Vista,CA,91910
+San Ysidro,32.569300,-117.005100,https://www.dmv.ca.gov/portal/field-office/san-ysidro/,6111 Business Center Court,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Diego,CA,92154
+San Diego,32.750300,-117.149000,https://www.dmv.ca.gov/portal/field-office/san-diego/,3960 Normal Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], San Diego,CA,92103
+El Cajon,32.816800,-116.959700,https://www.dmv.ca.gov/portal/field-office/el-cajon/,1450 Graves Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], El Cajon,CA,92021
+El Centro,32.794800,-115.569400,https://www.dmv.ca.gov/portal/field-office/el-centro/,233 N Imperial Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], El Centro,CA,92243
+Oceanside,33.183400,-117.289000,https://www.dmv.ca.gov/portal/field-office/oceanside/,4005 Plaza Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Oceanside,CA,92056
+Temecula,33.506200,-117.161300,https://www.dmv.ca.gov/portal/field-office/temecula/,27851 Diaz Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Temecula,CA,92590
+Brawley,32.9790193,-115.5453627,https://www.dmv.ca.gov/portal/field-office/brawley/,173 W Main St.,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Brawley,CA,92227
+Indio,33.726220,-116.215742,https://www.dmv.ca.gov/portal/field-office/indio/,44480 Jackson St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Indio,CA,92201
+Poway,32.960200,-117.040700,https://www.dmv.ca.gov/portal/field-office/poway/,13461 Community Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Poway,CA,92064
+Murrieta Express,33.599450,-117.175960,https://www.dmv.ca.gov/portal/field-office/murrieta-express/,27890 Clinton Keith Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'],,,
+Laguna Hills,33.620900,-117.731600,https://www.dmv.ca.gov/portal/field-office/laguna-hills/,23535 Moulton Parkway,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Laguna Hills,CA,92653
+San Clemente,33.442800,-117.642800,https://www.dmv.ca.gov/portal/field-office/san-clemente/,2727 Via Cascadita,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], San Clemente,CA,92672
+San Luis Obispo,35.257500,-120.669500,https://www.dmv.ca.gov/portal/field-office/san-luis-obispo/,3190 S Higuera Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Luis Obispo,CA,93401
+San Diego Clairemont,32.823500,-117.183200,https://www.dmv.ca.gov/portal/field-office/san-diego-clairemont/,4375 Derrick Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Diego,CA,92117
+Palm Desert,33.782800,-116.357600,https://www.dmv.ca.gov/portal/field-office/palm-desert/,74-740 Technology Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Palm Desert,CA,92211
+Blythe,33.604200,-114.596200,https://www.dmv.ca.gov/portal/field-office/blythe/,430 S Broadway,"Tu,Th 08:00-17:00",[], Blythe,CA,92225
+Palm Springs,33.836600,-116.518700,https://www.dmv.ca.gov/portal/field-office/palm-springs/,950 N Farrell Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Palm Springs,CA,92262
+Twentynine Palms,34.199775,-116.054016,https://www.dmv.ca.gov/portal/field-office/twentynine-palms/,3668 Adobe Road G-J,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Twentynine Palms,CA,92277
+Needles,34.825497,-114.596291,https://www.dmv.ca.gov/portal/field-office/needles/,1040 E Broadway St,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Needles,CA,92363
+Victorville,34.520500,-117.305500,https://www.dmv.ca.gov/portal/field-office/victorville/,14855 Corta Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Victorville,CA,92395
+Barstow,34.888119,-117.022119,https://www.dmv.ca.gov/portal/field-office/barstow/,528 E Virginia Way,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Barstow,CA,92311
+San Bernardino IBC,34.06777,-117.27467,https://www.dmv.ca.gov/portal/field-office/san-bernardino-ibc/,473 East Carnegie Dr Ste. 125,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], San Bernardino,CA,92408
+Riverside,33.957500,-117.396600,https://www.dmv.ca.gov/portal/field-office/riverside/,6280 Brockton Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Riverside,CA,92506
+San Bernardino,34.123400,-117.278800,https://www.dmv.ca.gov/portal/field-office/san-bernardino/,1310 N Waterman Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Bernardino,CA,92404
+Riverside East,33.934500,-117.299200,https://www.dmv.ca.gov/portal/field-office/riverside-east/,6425 Sycamore Canyon Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Riverside,CA,92507
+Redlands,34.070300,-117.211100,https://www.dmv.ca.gov/portal/field-office/redlands/,1659 W Lugonia Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Redlands,CA,92374
+Ridgecrest,35.648927,-117.679474,https://www.dmv.ca.gov/portal/field-office/ridgecrest/,540A Perdew Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Ridgecrest,CA,93555
+Hemet,33.727792,-116.970199,https://www.dmv.ca.gov/portal/field-office/hemet/,1200 S State St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Hemet,CA,92543
+Ventura,34.256700,-119.236300,https://www.dmv.ca.gov/portal/field-office/ventura/,4260 Market Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Ventura,CA,93003
+Santa Barbara,34.412900,-119.701100,https://www.dmv.ca.gov/portal/field-office/santa-barbara/,535 Castillo Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Santa Barbara,CA,93101
+Santa Paula,34.344500,-119.075600,https://www.dmv.ca.gov/portal/field-office/santa-paula/,250 W Harvard Boulevard A,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Santa Paula,CA,93060
+Goleta,34.428500,-119.876500,https://www.dmv.ca.gov/portal/field-office/goleta/,7127 Hollister Avenue Suite 24/26,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Goleta,CA,93117
+Delano,35.765100,-119.243700,https://www.dmv.ca.gov/portal/field-office/delano/,631 Jefferson Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Delano,CA,93215
+Hanford,36.313400,-119.644400,https://www.dmv.ca.gov/portal/field-office/hanford/,701 W Hanford Armona Road (corner of W Armona),"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Hanford,CA,93230
+Arvin,35.210800,-118.833200,https://www.dmv.ca.gov/portal/field-office/arvin/,317 Campus Dr,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Arvin,CA,93203
+Lake Isabella,35.616825,-118.478236,https://www.dmv.ca.gov/portal/field-office/lake-isabella/,5520 Lake Isabella Road G-1,"Tu,Th 08:00-17:00",[], Lake Isabella,CA,93240
+Shafter,35.503400,-119.272500,https://www.dmv.ca.gov/portal/field-office/shafter/,548 Walker Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Shafter,CA,93263
+Taft,35.139321,-119.453756,https://www.dmv.ca.gov/portal/field-office/taft/,165 Center Street,"Tu,Th 08:00-17:00",[], Taft,CA,93268
+Porterville,36.063400,-119.009400,https://www.dmv.ca.gov/portal/field-office/porterville/,329 E Olive Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Porterville,CA,93257
+Coalinga,36.143000,-120.357200,https://www.dmv.ca.gov/portal/field-office/coalinga/,406 East Elm Avenue,"Tu,Th 08:00-17:00",[], Coalinga,CA,93210
+Bakersfield,35.388300,-119.022500,https://www.dmv.ca.gov/portal/field-office/bakersfield/,3120 F Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Bakersfield,CA,93301
+Bakersfield IBC,35.31368,-119.06675,https://www.dmv.ca.gov/portal/field-office/bakersfield-ibc/,5800 District Blvd,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[],,,
+Bakersfield Southwest,35.317031,-119.079704,https://www.dmv.ca.gov/portal/field-office/bakersfield-southwest/,7000 Schirra Ct,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Bakersfield,CA,93313
+Visalia,36.330200,-119.273900,https://www.dmv.ca.gov/portal/field-office/visalia/,1711 East Main Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Visalia,CA,93292
+Tulare,36.213400,-119.346400,https://www.dmv.ca.gov/portal/field-office/tulare/,274 E Cross Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Tulare,CA,93274
+Reedley,36.590100,-119.443400,https://www.dmv.ca.gov/portal/field-office/reedley/,558 E Dinuba Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Reedley,CA,93654
+Paso Robles,35.623300,-120.689800,https://www.dmv.ca.gov/portal/field-office/paso-robles/,841 Park Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Paso Robles,CA,93446
+Lompoc,34.663552,-120.458380,https://www.dmv.ca.gov/portal/field-office/lompoc/,1601 N H St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Lompoc,CA,93436
+Santa Maria,34.947500,-120.434700,https://www.dmv.ca.gov/portal/field-office/santa-maria/,523 S McClelland Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Santa Maria,CA,93454
+Bishop,37.361300,-118.407800,https://www.dmv.ca.gov/portal/field-office/bishop/,1115 West Line Street,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Bishop,CA,93514
+Lancaster,34.654836,-118.146912,https://www.dmv.ca.gov/portal/field-office/lancaster/,721 W Ave L6,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Lancaster,CA,93535
+Mariposa,37.494628,-119.968383,https://www.dmv.ca.gov/portal/field-office/mariposa/,5264 Highway 49-North,"Tu,Th 08:00-17:00",[], Mariposa,CA,95338
+Clovis,36.809500,-119.676600,https://www.dmv.ca.gov/portal/field-office/clovis/,2103 Shaw Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Clovis,CA,93611
+Madera,36.950100,-120.071700,https://www.dmv.ca.gov/portal/field-office/madera/,1206 Maple Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Madera,CA,93637
+Fresno,36.757500,-119.819400,https://www.dmv.ca.gov/portal/field-office/fresno/,655 W Olive Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Fresno,CA,93728
+Fresno North,36.831000,-119.790100,https://www.dmv.ca.gov/portal/field-office/fresno-north/,6420 N Blackstone Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Fresno,CA,93710
+Fresno IBC,36.83051,-119.78867,https://www.dmv.ca.gov/portal/field-office/fresno-ibc/,6420 North Blackstone Ave.,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Fresno,CA,93710
+Mendota,36.754100,-120.382600,https://www.dmv.ca.gov/portal/field-office/mendota/,655 Quince Street,"Th,Fr 09:00-16:00",[], Mendota,CA,93640
+Fresno Commercial Drive Test Center,36.692246,-119.778029,https://www.dmv.ca.gov/portal/field-office/fresno-commercial-drive-test-center/,735 E North Ave,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Fresno,CA,93725
+Merced,37.300700,-120.498700,https://www.dmv.ca.gov/portal/field-office/merced/,1313 W 12th Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Merced,CA,95340
+Los Banos,37.059800,-120.863000,https://www.dmv.ca.gov/portal/field-office/los-banos/,814 West L Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Los Banos,CA,93635
+Salinas Commercial Drive Test Center,36.66003,-121.63036,https://www.dmv.ca.gov/portal/field-office/salinas-commercial-drive-test-center/,838 Vertin Ave,"Mo,Tu,Th,Fr 07:00-16:00,We 09:00-16:00",[], Salinas,CA,93901
+Salinas,36.697900,-121.647800,https://www.dmv.ca.gov/portal/field-office/salinas/,260 E Laurel Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Salinas,CA,93906
+Watsonville,36.927000,-121.768200,https://www.dmv.ca.gov/portal/field-office/watsonville/,90 Alta Vista Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Watsonville,CA,95076
+Seaside,36.602656,-121.853174,https://www.dmv.ca.gov/portal/field-office/seaside/,1180 Canyon Del Rey Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Seaside,CA,93955
+Hollister,36.858174,-121.399748,https://www.dmv.ca.gov/portal/field-office/hollister/,80 N Sally Street,"Tu,Th,Fr 08:00-17:00",[], Hollister,CA,95023
+San Mateo,37.579200,-122.323500,https://www.dmv.ca.gov/portal/field-office/san-mateo/,425 N Amphlett Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], San Mateo,CA,94401
+San Francisco,37.773600,-122.440400,https://www.dmv.ca.gov/portal/field-office/san-francisco/,1377 Fell Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Francisco,CA,94117
+Oakland Coliseum,37.739673,-122.193223,https://www.dmv.ca.gov/portal/field-office/oakland-coliseum/,501 85th Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Oakland,CA,94621
+Mountain View Industry Business Center,37.400610,-122.107810,https://www.dmv.ca.gov/portal/field-office/mountain-view-industry-business-center/,595 Showers Drive,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Mountain View,CA,94040
+Mountain View IBC,37.40057,-122.10771,https://www.dmv.ca.gov/portal/field-office/mountain-view-ibc/,595 Showers Dr.,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Mountain View,CA,94040
+Los Gatos,37.234000,-121.978100,https://www.dmv.ca.gov/portal/field-office/los-gatos/,600 N Santa Cruz Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Los Gatos,CA,95030
+San Jose,37.315000,-121.876300,https://www.dmv.ca.gov/portal/field-office/san-jose/,111 W Alma Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Jose,CA,95110
+Capitola,36.973200,-121.962700,https://www.dmv.ca.gov/portal/field-office/capitola/,4200 Capitola Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Capitola,CA,95010
+Fremont,37.553100,-122.007300,https://www.dmv.ca.gov/portal/field-office/fremont/,4287 Central Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Fremont,CA,94536
+West Sacramento Commercial Drive Test Center,38.577000,-121.544000,https://www.dmv.ca.gov/portal/field-office/west-sacramento-commercial-drive-test-center/,2528 Evergreen Avenue,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], West Sacramento,CA,95691
+Sacramento,38.546100,-121.450900,https://www.dmv.ca.gov/portal/field-office/sacramento/,4700 Broadway,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Sacramento,CA,95820
+Sacramento-Florin IBC,38.49457,-121.43485,https://www.dmv.ca.gov/portal/field-office/sacramento-florin-ibc/,7226 Florin Mall Dr.,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Sacramento,CA,95823
+Sacramento South,38.476400,-121.426300,https://www.dmv.ca.gov/portal/field-office/sacramento-south/,7775 La Mancha Way,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Sacramento,CA,95823
+Carmichael,38.625159,-121.343288,https://www.dmv.ca.gov/portal/field-office/carmichael/,5209 North Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Carmichael,CA,95608
+Oakland,37.840000,-122.259700,https://www.dmv.ca.gov/portal/field-office/oakland/,5300 Claremont Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Oakland,CA,94618
+El Cerrito,37.916100,-122.310700,https://www.dmv.ca.gov/portal/field-office/el-cerrito/,6400 Manila Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], El Cerrito,CA,94530
+Hayward,37.659500,-122.087800,https://www.dmv.ca.gov/portal/field-office/hayward/,150 Jackson Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Hayward,CA,94544
+Vallejo,38.117100,-122.251900,https://www.dmv.ca.gov/portal/field-office/vallejo/,200 Couch Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Vallejo,CA,94590
+Napa,38.255400,-122.273900,https://www.dmv.ca.gov/portal/field-office/napa/,2550 Napa Valley Corporate Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Napa,CA,94558
+Fairfield IBC,38.23032,-122.13151,https://www.dmv.ca.gov/portal/field-office/fairfield-ibc/,4630 Westamerica Dr,"Mo,Tu,Th,Fr 07:00-16:00,We 08:00-16:00",[], Fairfield,CA,94534
+Fairfield,38.246700,-122.073100,https://www.dmv.ca.gov/portal/field-office/fairfield/,160 Serrano Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Fairfield,CA,94533
+Tracy,37.762200,-121.465100,https://www.dmv.ca.gov/portal/field-office/tracy/,2785 Auto Plaza Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Tracy,CA,95304
+Stockton,37.951300,-121.297600,https://www.dmv.ca.gov/portal/field-office/stockton/,55 South Lincoln Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Stockton,CA,95203
+Pleasanton Stoneridge,37.696870,-121.926060,https://www.dmv.ca.gov/portal/field-office/pleasanton-stoneridge/,2621 Stoneridge Mall,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[],,,
+Pleasanton,37.680167,-121.905706,https://www.dmv.ca.gov/portal/field-office/pleasanton/,6300 W Las Positas Blvd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Pleasanton,CA,94588
+Pittsburg,37.998800,-121.872600,https://www.dmv.ca.gov/portal/field-office/pittsburg/,1399 Buchanan Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Pittsburg,CA,94565
+Concord,37.974700,-122.056600,https://www.dmv.ca.gov/portal/field-office/concord/,2070 Diamond Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Concord,CA,94520
+Santa Rosa,38.414974,-122.716768,https://www.dmv.ca.gov/portal/field-office/santa-rosa/,2570 Corby Ave,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Santa Rosa,CA,95407
+Petaluma,38.257000,-122.645300,https://www.dmv.ca.gov/portal/field-office/petaluma/,715 - J Southpoint Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Petaluma,CA,94954
+Vacaville,38.378400,-121.944800,https://www.dmv.ca.gov/portal/field-office/vacaville/,621 Orange Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Vacaville,CA,95687
+Santa Teresa,37.229700,-121.778500,https://www.dmv.ca.gov/portal/field-office/santa-teresa/,180 Martinvale Lane,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], San Jose,CA,95119
+Clearlake,38.92956,-122.61626,https://www.dmv.ca.gov/portal/field-office/clearlake/,15930 Dam Rd,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[],,,
+Corte Madera,37.934700,-122.517700,https://www.dmv.ca.gov/portal/field-office/corte-madera/,75 Tamal Vista Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Corte Madera,CA,94925
+Novato,38.106600,-122.578700,https://www.dmv.ca.gov/portal/field-office/novato/,936 7th Street A,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Novato,CA,94947
+Gilroy,37.001700,-121.560600,https://www.dmv.ca.gov/portal/field-office/gilroy/,6984 Automall Parkway Suite A,,['Kiosk Available'], Gilroy,CA,95020
+Manteca,37.800600,-121.230300,https://www.dmv.ca.gov/portal/field-office/manteca/,955 Davis Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Manteca,CA,95336
+Lodi,38.117900,-121.252200,https://www.dmv.ca.gov/portal/field-office/lodi/,1222 Pixley Parkway,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Lodi,CA,95240
+San Andreas,38.191088,-120.671187,https://www.dmv.ca.gov/portal/field-office/san-andreas/,745 Mountain Ranch Rd,"Tu,Th 08:00-17:00",[], San Andreas,CA,95249
+Sonora,37.984400,-120.370200,https://www.dmv.ca.gov/portal/field-office/sonora/,885 Morning Star Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Sonora,CA,95370
+South Lake Tahoe,38.945748,-119.969890,https://www.dmv.ca.gov/portal/field-office/south-lake-tahoe/,3344 B Lake Tahoe Boulevard,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], South Lake Tahoe,CA,96150
+Jackson,38.342199,-120.763620,https://www.dmv.ca.gov/portal/field-office/jackson/,201 Clinton Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Jackson,CA,95642
+Modesto,37.638400,-120.988800,https://www.dmv.ca.gov/portal/field-office/modesto/,124 Burney Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Modesto,CA,95354
+Turlock,37.521866,-120.839588,https://www.dmv.ca.gov/portal/field-office/turlock/,825 E Monte Vista Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Turlock,CA,95382
+Fort Bragg,39.437900,-123.804200,https://www.dmv.ca.gov/portal/field-office/fort-bragg/,410 S Franklin Street,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Fort Bragg,CA,95437
+Ukiah,39.147600,-123.198800,https://www.dmv.ca.gov/portal/field-office/ukiah/,542 S Orchard Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Ukiah,CA,95482
+Lakeport,39.036613,-122.927301,https://www.dmv.ca.gov/portal/field-office/lakeport/,965 Parallel Drive,"Tu,Th 08:00-17:00",[], Lakeport,CA,95453
+Garberville,40.120878,-123.800749,https://www.dmv.ca.gov/portal/field-office/garberville/,1180 Evergreen Rd,"Tu,Th 08:00-17:00",[], Redway,CA,95560
+Eureka,40.779296,-124.190593,https://www.dmv.ca.gov/portal/field-office/eureka/,3300 Broadway St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Eureka,CA,95501
+Weaverville,40.725600,-122.933100,https://www.dmv.ca.gov/portal/field-office/weaverville/,1511 Main Street,"Tu,Th 08:00-17:00",[], Weaverville,CA,96093
+Yreka,41.702574,-122.645547,https://www.dmv.ca.gov/portal/field-office/yreka/,1848 Fort Jones Rd,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Yreka,CA,96097
+Auburn,38.907416,-121.083930,https://www.dmv.ca.gov/portal/field-office/auburn/,11722 Enterprise Dr,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Auburn,CA,95603
+Truckee,39.326110,-120.210732,https://www.dmv.ca.gov/portal/field-office/truckee/,11357 Donner Pass Road Suite I,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Truckee,CA,96162
+Woodland,38.669155,-121.764585,https://www.dmv.ca.gov/portal/field-office/woodland/,825 East St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Suite 306,CA,95776
+Davis,38.549200,-121.726700,https://www.dmv.ca.gov/portal/field-office/davis/,505 Pole Line Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Davis,CA,95616
+Colusa,39.203900,-122.004400,https://www.dmv.ca.gov/portal/field-office/colusa/,1025 Bridge St STE B,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Colusa,CA,95932
+Folsom,38.674100,-121.168100,https://www.dmv.ca.gov/portal/field-office/folsom/,323 E Bidwell A,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Folsom,CA,95630
+Placerville,38.734700,-120.825100,https://www.dmv.ca.gov/portal/field-office/placerville/,2919 Cold Springs Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Placerville,CA,95667
+Rocklin,38.787400,-121.231600,https://www.dmv.ca.gov/portal/field-office/rocklin/,5245 South Grove,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Rocklin,CA,95677
+Roseville,38.775600,-121.306100,https://www.dmv.ca.gov/portal/field-office/roseville/,7200 Galilee Road,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Roseville,CA,95678
+Grass Valley,39.232100,-121.036010,https://www.dmv.ca.gov/portal/field-office/grass-valley/,890 Sutton Way,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Grass Valley,CA,95945
+Willows,39.529404,-122.212047,https://www.dmv.ca.gov/portal/field-office/willows/,815 N Humboldt Avenue,"Tu,Th 08:00-17:00",[], Willows,CA,95988
+Chico,39.752800,-121.849100,https://www.dmv.ca.gov/portal/field-office/chico/,107 Parmac Rd #1,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",['Kiosk Available'], Chico,CA,95926
+Oroville,39.504455,-121.565331,https://www.dmv.ca.gov/portal/field-office/oroville/,775 Mitchell Avenue,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Oroville,CA,95965
+Quincy,39.935062,-120.882972,https://www.dmv.ca.gov/portal/field-office/quincy/,1953 E Main Street Suite 3,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Quincy,CA,95971
+Susanville,40.412221,-120.638430,https://www.dmv.ca.gov/portal/field-office/susanville/,2615 Main Street,"Mo,Fr 08:00-17:00,We 09:00-17:00",[], Susanville,CA,96130
+Redding,40.575900,-122.380500,https://www.dmv.ca.gov/portal/field-office/redding/,2135 Civic Center Drive,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Redding,CA,96001
+Alturas,41.491962,-120.549754,https://www.dmv.ca.gov/portal/field-office/alturas/,903 W C St,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Alturas,CA,96101
+Fall River Mills,41.019824,-121.427987,https://www.dmv.ca.gov/portal/field-office/fall-river-mills/,43467 Hwy 299E,"Tu,Th 08:00-17:00",[], Fall River Mills,CA,96028
+Mt Shasta,41.310225,-122.317030,https://www.dmv.ca.gov/portal/field-office/mt-shasta/,154 Morgan Way,"Tu,Th 08:00-17:00",[], Mt Shasta,CA,96067
+Red Bluff,40.174800,-122.239000,https://www.dmv.ca.gov/portal/field-office/red-bluff/,675 Monroe Street,"Mo,Tu,Th,Fr 08:00-17:00,We 09:00-17:00",[], Red Bluff,CA,96080
+Tulelake,41.956200,-121.477100,https://www.dmv.ca.gov/portal/field-office/tulelake/,399 Main Street,,[], Tulelake,CA,96134
