@@ -10,7 +10,9 @@ headers = {
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
 }
 
-now = pd.Timestamp.now().strftime("%Y-%m-%d %H:00:00")
+# Set "now" to Pacific Time
+pacific = pytz.timezone("US/Pacific")
+now = pd.Timestamp.now(tz=pacific).strftime("%Y-%m-%d %H:00:00")
 
 archive_df = pd.read_json('https://stilesdata.com/ca-dmv/processed/archive/wait_times.json')
 
