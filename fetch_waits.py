@@ -11,7 +11,7 @@ headers = {
 
 now = pd.Timestamp.now().strftime("%Y-%m-%d %H:00:00")
 
-archive_df = pd.read_json('https://stilesdata.com/ca-dmv/')
+archive_df = pd.read_json('https://stilesdata.com/ca-dmv/processed/archive/wait_times.json')
 
 # Load field office URLs
 df = pd.read_json("data/raw/dmv_locations.json")
