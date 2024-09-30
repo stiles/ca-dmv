@@ -3,8 +3,8 @@ name: fetch_waits
 on:
   workflow_dispatch:
   schedule:
-    - cron: '6 * * * *' 
-    # Every hour at minute 6
+    - cron: '30 15-23 * * 1-5' 
+    # Hourly during business hours on weekdays at 30 past the hour
 
 jobs:
   build:
