@@ -2,17 +2,9 @@
     {
         "location":"long-beach",
         "type":"field-office",
-        "appt_wait":1.0,
-        "no_appt_wait":7.0,
+        "appt_wait":4.0,
+        "no_appt_wait":21.0,
         "captured":"2024-09-30 16:00:00",
         "day":"1"
-    },
-    {
-        "location":"long-beach",
-        "type":"field-office",
-        "appt_wait":0.0,
-        "no_appt_wait":6.0,
-        "captured":"2024-09-30 08:00:00",
-        "day":null
     }
 ]
