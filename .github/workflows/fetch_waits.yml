@@ -1,4 +1,4 @@
-name: fetch_polls
+name: fetch_waits
 
 on:
   workflow_dispatch:
