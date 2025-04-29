@@ -3,8 +3,8 @@
         "location":"long-beach",
         "type":"field-office",
         "appt_wait":40.0,
-        "no_appt_wait":132.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":134.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -12,7 +12,7 @@
         "type":"field-office",
         "appt_wait":16.0,
         "no_appt_wait":44.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -20,7 +20,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -28,15 +28,15 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":67.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"west-hollywood",
         "type":"field-office",
-        "appt_wait":11.0,
+        "appt_wait":12.0,
         "no_appt_wait":15.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -44,7 +44,7 @@
         "type":"field-office",
         "appt_wait":35.0,
         "no_appt_wait":81.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -52,7 +52,7 @@
         "type":"field-office",
         "appt_wait":26.0,
         "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -60,7 +60,7 @@
         "type":"field-office",
         "appt_wait":23.0,
         "no_appt_wait":59.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -68,7 +68,7 @@
         "type":"field-office",
         "appt_wait":26.0,
         "no_appt_wait":68.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -76,15 +76,15 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"pasadena",
         "type":"field-office",
-        "appt_wait":19.0,
+        "appt_wait":22.0,
         "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -92,7 +92,7 @@
         "type":"field-office",
         "appt_wait":20.0,
         "no_appt_wait":57.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -100,7 +100,7 @@
         "type":"field-office",
         "appt_wait":19.0,
         "no_appt_wait":81.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -108,15 +108,15 @@
         "type":"field-office",
         "appt_wait":28.0,
         "no_appt_wait":47.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"hawthorne",
         "type":"field-office",
-        "appt_wait":8.0,
-        "no_appt_wait":36.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":10.0,
+        "no_appt_wait":39.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -124,15 +124,15 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":20.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"whittier",
         "type":"field-office",
-        "appt_wait":31.0,
+        "appt_wait":33.0,
         "no_appt_wait":93.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -140,15 +140,15 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":88.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"compton",
         "type":"field-office",
         "appt_wait":36.0,
-        "no_appt_wait":118.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":121.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -156,7 +156,7 @@
         "type":"field-office",
         "appt_wait":18.0,
         "no_appt_wait":47.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -164,7 +164,7 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":89.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -172,7 +172,7 @@
         "type":"field-office",
         "appt_wait":25.0,
         "no_appt_wait":74.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -180,7 +180,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -188,7 +188,7 @@
         "type":"field-office",
         "appt_wait":17.0,
         "no_appt_wait":38.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -196,7 +196,7 @@
         "type":"field-office",
         "appt_wait":31.0,
         "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -204,15 +204,15 @@
         "type":"field-office",
         "appt_wait":18.0,
         "no_appt_wait":62.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"arleta",
         "type":"field-office",
-        "appt_wait":31.0,
+        "appt_wait":34.0,
         "no_appt_wait":92.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -220,15 +220,15 @@
         "type":"field-office",
         "appt_wait":37.0,
         "no_appt_wait":78.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"fullerton",
         "type":"field-office",
         "appt_wait":43.0,
-        "no_appt_wait":135.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":161.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -236,7 +236,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -244,23 +244,23 @@
         "type":"field-office",
         "appt_wait":45.0,
         "no_appt_wait":112.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"santa-ana",
         "type":"field-office",
         "appt_wait":40.0,
-        "no_appt_wait":131.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":136.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"costa-mesa",
         "type":"field-office",
-        "appt_wait":44.0,
-        "no_appt_wait":155.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":46.0,
+        "no_appt_wait":174.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -268,7 +268,7 @@
         "type":"field-office",
         "appt_wait":43.0,
         "no_appt_wait":117.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -276,23 +276,23 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"newhall",
         "type":"field-office",
         "appt_wait":24.0,
-        "no_appt_wait":90.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":93.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"oxnard",
         "type":"field-office",
-        "appt_wait":23.0,
+        "appt_wait":27.0,
         "no_appt_wait":66.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -300,7 +300,7 @@
         "type":"field-office",
         "appt_wait":44.0,
         "no_appt_wait":112.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -308,23 +308,23 @@
         "type":"field-office",
         "appt_wait":21.0,
         "no_appt_wait":41.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"pomona",
         "type":"field-office",
-        "appt_wait":48.0,
-        "no_appt_wait":123.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":49.0,
+        "no_appt_wait":127.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"norco",
         "type":"field-office",
-        "appt_wait":36.0,
-        "no_appt_wait":84.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":41.0,
+        "no_appt_wait":104.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -332,7 +332,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":75.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -340,7 +340,7 @@
         "type":"field-office",
         "appt_wait":42.0,
         "no_appt_wait":130.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -348,7 +348,7 @@
         "type":"field-office",
         "appt_wait":52.0,
         "no_appt_wait":169.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -356,15 +356,15 @@
         "type":"field-office",
         "appt_wait":51.0,
         "no_appt_wait":164.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"yuba-city",
         "type":"field-office",
         "appt_wait":27.0,
-        "no_appt_wait":55.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":62.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -372,15 +372,15 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"fontana",
         "type":"field-office",
-        "appt_wait":26.0,
+        "appt_wait":31.0,
         "no_appt_wait":65.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -388,7 +388,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -396,7 +396,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -404,23 +404,23 @@
         "type":"field-office",
         "appt_wait":67.0,
         "no_appt_wait":133.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-ysidro",
         "type":"field-office",
-        "appt_wait":27.0,
-        "no_appt_wait":74.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":33.0,
+        "no_appt_wait":95.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-diego",
         "type":"field-office",
-        "appt_wait":41.0,
-        "no_appt_wait":92.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":42.0,
+        "no_appt_wait":93.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -428,7 +428,7 @@
         "type":"field-office",
         "appt_wait":32.0,
         "no_appt_wait":130.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -436,7 +436,7 @@
         "type":"field-office",
         "appt_wait":32.0,
         "no_appt_wait":105.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -444,7 +444,7 @@
         "type":"field-office",
         "appt_wait":43.0,
         "no_appt_wait":113.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -452,23 +452,23 @@
         "type":"field-office",
         "appt_wait":35.0,
         "no_appt_wait":92.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"brawley",
         "type":"field-office",
-        "appt_wait":37.0,
-        "no_appt_wait":106.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":39.0,
+        "no_appt_wait":112.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"indio",
         "type":"field-office",
-        "appt_wait":30.0,
-        "no_appt_wait":83.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":32.0,
+        "no_appt_wait":85.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -476,7 +476,7 @@
         "type":"field-office",
         "appt_wait":51.0,
         "no_appt_wait":114.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -484,7 +484,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -492,23 +492,23 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-clemente",
         "type":"field-office",
-        "appt_wait":36.0,
+        "appt_wait":39.0,
         "no_appt_wait":113.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-luis-obispo",
         "type":"field-office",
         "appt_wait":25.0,
-        "no_appt_wait":37.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":48.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -516,15 +516,15 @@
         "type":"field-office",
         "appt_wait":41.0,
         "no_appt_wait":102.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"palm-desert",
         "type":"field-office",
-        "appt_wait":16.0,
-        "no_appt_wait":60.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":27.0,
+        "no_appt_wait":65.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -532,7 +532,7 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":34.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -540,15 +540,15 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":75.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"twentynine-palms",
         "type":"field-office",
-        "appt_wait":21.0,
+        "appt_wait":15.0,
         "no_appt_wait":43.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -556,23 +556,23 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"victorville",
         "type":"field-office",
-        "appt_wait":47.0,
-        "no_appt_wait":110.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":48.0,
+        "no_appt_wait":119.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"barstow",
         "type":"field-office",
-        "appt_wait":35.0,
-        "no_appt_wait":117.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":38.0,
+        "no_appt_wait":127.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -580,15 +580,15 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"riverside",
         "type":"field-office",
-        "appt_wait":15.0,
+        "appt_wait":17.0,
         "no_appt_wait":56.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -596,7 +596,7 @@
         "type":"field-office",
         "appt_wait":17.0,
         "no_appt_wait":56.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -604,7 +604,7 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":84.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -612,7 +612,7 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":66.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -620,15 +620,15 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":36.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"hemet",
         "type":"field-office",
-        "appt_wait":25.0,
-        "no_appt_wait":67.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":27.0,
+        "no_appt_wait":85.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -636,7 +636,7 @@
         "type":"field-office",
         "appt_wait":16.0,
         "no_appt_wait":32.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -644,7 +644,7 @@
         "type":"field-office",
         "appt_wait":14.0,
         "no_appt_wait":36.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -652,7 +652,7 @@
         "type":"field-office",
         "appt_wait":16.0,
         "no_appt_wait":31.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -660,7 +660,7 @@
         "type":"field-office",
         "appt_wait":21.0,
         "no_appt_wait":49.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -668,7 +668,7 @@
         "type":"field-office",
         "appt_wait":26.0,
         "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -676,7 +676,7 @@
         "type":"field-office",
         "appt_wait":29.0,
         "no_appt_wait":77.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -684,7 +684,7 @@
         "type":"field-office",
         "appt_wait":13.0,
         "no_appt_wait":27.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -692,7 +692,7 @@
         "type":"field-office",
         "appt_wait":39.0,
         "no_appt_wait":85.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -700,23 +700,23 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":40.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"taft",
         "type":"field-office",
-        "appt_wait":35.0,
-        "no_appt_wait":85.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":38.0,
+        "no_appt_wait":92.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"porterville",
         "type":"field-office",
-        "appt_wait":28.0,
+        "appt_wait":21.0,
         "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -724,7 +724,7 @@
         "type":"field-office",
         "appt_wait":35.0,
         "no_appt_wait":78.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -732,7 +732,7 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":88.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -740,15 +740,15 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"bakersfield-southwest",
         "type":"field-office",
-        "appt_wait":19.0,
+        "appt_wait":20.0,
         "no_appt_wait":55.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -756,7 +756,7 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":43.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -764,7 +764,7 @@
         "type":"field-office",
         "appt_wait":14.0,
         "no_appt_wait":34.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -772,7 +772,7 @@
         "type":"field-office",
         "appt_wait":16.0,
         "no_appt_wait":43.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -780,23 +780,23 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":36.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"lompoc",
         "type":"field-office",
         "appt_wait":18.0,
-        "no_appt_wait":47.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":51.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"santa-maria",
         "type":"field-office",
-        "appt_wait":15.0,
-        "no_appt_wait":37.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":16.0,
+        "no_appt_wait":39.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -804,7 +804,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -812,7 +812,7 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":99.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -820,7 +820,7 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":84.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -828,7 +828,7 @@
         "type":"field-office",
         "appt_wait":23.0,
         "no_appt_wait":61.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -836,7 +836,7 @@
         "type":"field-office",
         "appt_wait":22.0,
         "no_appt_wait":58.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -844,15 +844,15 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":82.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"fresno-north",
         "type":"field-office",
         "appt_wait":37.0,
-        "no_appt_wait":73.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":108.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -860,7 +860,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -868,7 +868,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -876,7 +876,7 @@
         "type":"field-office",
         "appt_wait":8.0,
         "no_appt_wait":46.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -884,15 +884,15 @@
         "type":"field-office",
         "appt_wait":33.0,
         "no_appt_wait":98.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"los-banos",
         "type":"field-office",
-        "appt_wait":22.0,
-        "no_appt_wait":52.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":31.0,
+        "no_appt_wait":64.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -900,15 +900,15 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"salinas",
         "type":"field-office",
         "appt_wait":33.0,
-        "no_appt_wait":102.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":114.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -916,15 +916,15 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":36.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"seaside",
         "type":"field-office",
         "appt_wait":28.0,
-        "no_appt_wait":68.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":71.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -932,23 +932,23 @@
         "type":"field-office",
         "appt_wait":38.0,
         "no_appt_wait":146.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-mateo",
         "type":"field-office",
-        "appt_wait":24.0,
-        "no_appt_wait":34.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":22.0,
+        "no_appt_wait":42.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-francisco",
         "type":"field-office",
-        "appt_wait":38.0,
-        "no_appt_wait":89.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":40.0,
+        "no_appt_wait":93.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -956,7 +956,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -964,7 +964,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -972,7 +972,7 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -980,7 +980,7 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":62.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -988,23 +988,23 @@
         "type":"field-office",
         "appt_wait":40.0,
         "no_appt_wait":92.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"capitola",
         "type":"field-office",
-        "appt_wait":17.0,
+        "appt_wait":18.0,
         "no_appt_wait":39.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"fremont",
         "type":"field-office",
-        "appt_wait":57.0,
+        "appt_wait":75.0,
         "no_appt_wait":133.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1012,15 +1012,15 @@
         "type":"field-office",
         "appt_wait":3.0,
         "no_appt_wait":34.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"sacramento",
         "type":"field-office",
         "appt_wait":58.0,
-        "no_appt_wait":147.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":162.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1028,31 +1028,31 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"sacramento-south",
         "type":"field-office",
-        "appt_wait":35.0,
-        "no_appt_wait":127.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":37.0,
+        "no_appt_wait":129.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"carmichael",
         "type":"field-office",
-        "appt_wait":37.0,
-        "no_appt_wait":103.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":40.0,
+        "no_appt_wait":119.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"oakland",
         "type":"field-office",
         "appt_wait":25.0,
-        "no_appt_wait":76.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":96.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1060,7 +1060,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1068,15 +1068,15 @@
         "type":"field-office",
         "appt_wait":21.0,
         "no_appt_wait":56.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"vallejo",
         "type":"field-office",
-        "appt_wait":34.0,
-        "no_appt_wait":87.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":35.0,
+        "no_appt_wait":101.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1084,7 +1084,7 @@
         "type":"field-office",
         "appt_wait":33.0,
         "no_appt_wait":65.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1092,39 +1092,39 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"fairfield",
         "type":"field-office",
-        "appt_wait":31.0,
-        "no_appt_wait":66.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":34.0,
+        "no_appt_wait":82.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"tracy",
         "type":"field-office",
-        "appt_wait":33.0,
-        "no_appt_wait":94.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":41.0,
+        "no_appt_wait":106.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"stockton",
         "type":"field-office",
-        "appt_wait":33.0,
-        "no_appt_wait":93.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":34.0,
+        "no_appt_wait":94.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"pleasanton-stoneridge",
         "type":"field-office",
-        "appt_wait":22.0,
+        "appt_wait":23.0,
         "no_appt_wait":62.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1132,55 +1132,55 @@
         "type":"field-office",
         "appt_wait":34.0,
         "no_appt_wait":43.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"pittsburg",
         "type":"field-office",
         "appt_wait":37.0,
-        "no_appt_wait":108.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":109.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"concord",
         "type":"field-office",
         "appt_wait":59.0,
-        "no_appt_wait":117.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":146.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"santa-rosa",
         "type":"field-office",
         "appt_wait":39.0,
-        "no_appt_wait":145.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":148.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"petaluma",
         "type":"field-office",
         "appt_wait":36.0,
-        "no_appt_wait":66.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":76.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"vacaville",
         "type":"field-office",
-        "appt_wait":33.0,
-        "no_appt_wait":94.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":34.0,
+        "no_appt_wait":95.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"santa-teresa",
         "type":"field-office",
         "appt_wait":56.0,
-        "no_appt_wait":133.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":141.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1188,31 +1188,31 @@
         "type":"field-office",
         "appt_wait":0.0,
         "no_appt_wait":0.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"corte-madera",
         "type":"field-office",
-        "appt_wait":35.0,
-        "no_appt_wait":92.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":42.0,
+        "no_appt_wait":116.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"novato",
         "type":"field-office",
-        "appt_wait":44.0,
+        "appt_wait":37.0,
         "no_appt_wait":111.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"gilroy",
         "type":"field-office",
         "appt_wait":41.0,
-        "no_appt_wait":153.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":158.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1220,23 +1220,23 @@
         "type":"field-office",
         "appt_wait":27.0,
         "no_appt_wait":83.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"lodi",
         "type":"field-office",
-        "appt_wait":39.0,
-        "no_appt_wait":137.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":40.0,
+        "no_appt_wait":140.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"san-andreas",
         "type":"field-office",
         "appt_wait":46.0,
-        "no_appt_wait":183.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":187.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1244,15 +1244,15 @@
         "type":"field-office",
         "appt_wait":22.0,
         "no_appt_wait":52.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"south-lake-tahoe",
         "type":"field-office",
         "appt_wait":9.0,
-        "no_appt_wait":24.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":30.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1260,7 +1260,7 @@
         "type":"field-office",
         "appt_wait":45.0,
         "no_appt_wait":147.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1268,15 +1268,15 @@
         "type":"field-office",
         "appt_wait":23.0,
         "no_appt_wait":54.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"turlock",
         "type":"field-office",
         "appt_wait":35.0,
-        "no_appt_wait":77.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":80.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1284,7 +1284,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1292,15 +1292,15 @@
         "type":"field-office",
         "appt_wait":10.0,
         "no_appt_wait":24.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"lakeport",
         "type":"field-office",
         "appt_wait":23.0,
-        "no_appt_wait":46.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":51.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1308,7 +1308,7 @@
         "type":"field-office",
         "appt_wait":2.0,
         "no_appt_wait":9.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1316,7 +1316,7 @@
         "type":"field-office",
         "appt_wait":23.0,
         "no_appt_wait":57.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1324,7 +1324,7 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":115.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1332,31 +1332,31 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"auburn",
         "type":"field-office",
         "appt_wait":21.0,
-        "no_appt_wait":58.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":50.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"truckee",
         "type":"field-office",
         "appt_wait":32.0,
-        "no_appt_wait":64.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":66.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"woodland",
         "type":"field-office",
         "appt_wait":35.0,
-        "no_appt_wait":108.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":114.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1364,7 +1364,7 @@
         "type":"field-office",
         "appt_wait":32.0,
         "no_appt_wait":77.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1372,23 +1372,23 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"folsom",
         "type":"field-office",
-        "appt_wait":33.0,
-        "no_appt_wait":140.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":38.0,
+        "no_appt_wait":152.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"placerville",
         "type":"field-office",
-        "appt_wait":42.0,
-        "no_appt_wait":110.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":50.0,
+        "no_appt_wait":120.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1396,15 +1396,15 @@
         "type":"field-office",
         "appt_wait":27.0,
         "no_appt_wait":78.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"roseville",
         "type":"field-office",
         "appt_wait":38.0,
-        "no_appt_wait":133.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":156.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1412,15 +1412,15 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":29.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"willows",
         "type":"field-office",
         "appt_wait":17.0,
-        "no_appt_wait":51.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":35.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1428,23 +1428,23 @@
         "type":"field-office",
         "appt_wait":21.0,
         "no_appt_wait":47.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"oroville",
         "type":"field-office",
         "appt_wait":22.0,
-        "no_appt_wait":63.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":69.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"quincy",
         "type":"field-office",
-        "appt_wait":0.0,
-        "no_appt_wait":8.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":8.0,
+        "no_appt_wait":23.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1452,23 +1452,23 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"redding",
         "type":"field-office",
         "appt_wait":22.0,
-        "no_appt_wait":33.0,
-        "captured":"2025-04-29 13:00:00",
+        "no_appt_wait":50.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
         "location":"alturas",
         "type":"field-office",
-        "appt_wait":0.0,
-        "no_appt_wait":29.0,
-        "captured":"2025-04-29 13:00:00",
+        "appt_wait":6.0,
+        "no_appt_wait":34.0,
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1476,7 +1476,7 @@
         "type":"field-office",
         "appt_wait":15.0,
         "no_appt_wait":31.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1484,7 +1484,7 @@
         "type":"field-office",
         "appt_wait":30.0,
         "no_appt_wait":88.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1492,7 +1492,7 @@
         "type":"field-office",
         "appt_wait":9.0,
         "no_appt_wait":31.0,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     },
     {
@@ -1500,7 +1500,7 @@
         "type":"field-office",
         "appt_wait":null,
         "no_appt_wait":null,
-        "captured":"2025-04-29 13:00:00",
+        "captured":"2025-04-29 14:00:00",
         "day":"2"
     }
 ]
